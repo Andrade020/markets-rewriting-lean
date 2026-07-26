@@ -1,0 +1,5 @@
+name = "swapconfluence"
+defaultTargets = ["SwapConfluence"]
+
+[[lean_lib]]
+name = "SwapConfluence"
